@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="992b23e7-56ff-4403-9d0d-bf64c2ebf651" name="Changes" comment="oops Contructor Function" />
+    <list default="true" id="992b23e7-56ff-4403-9d0d-bf64c2ebf651" name="Changes" comment="oops Contructor Function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +38,17 @@
     &quot;last_opened_file_path&quot;: &quot;F:/IdeaProjects/myprogramjava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.practclass">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18 (2)" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Practice" />
       <module name="OOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.practclass" />
         <item itemvalue="Application.ownclass" />
         <item itemvalue="Application.terminology" />
         <item itemvalue="Application.hello" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
