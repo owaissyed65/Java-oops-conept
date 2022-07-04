@@ -2,21 +2,21 @@ package com.company;
 /*
 Practice Questions..
  */
-    class Employee{
-        int salary;
-        String name;
-
-        public int getSalary(){
-            return salary;
-        }
-        public String getName(){
-            return name;
-        }
-
-        public void setName(String n) {
-            name = n;
-        }
-    }
+//    class Employee{
+//        int salary;
+//        String name;
+//
+//        public int getSalary(){
+//            return salary;
+//        }
+//        public String getName(){
+//            return name;
+//        }
+//
+//        public void setName(String n) {
+//            name = n;
+//        }
+//    }
     class cellphone{
         public void Ringing(){
             System.out.println("Ringing.......");
@@ -38,7 +38,7 @@ Practice Questions..
 public class Practice {
     public static void main(String[] args) {
         /*Problem 1 */
-        Employee owais = new Employee();
+//        Employee owais = new Employee();
 //        owais.setName("I Am Owais");
 //        owais.salary=42000;
 //        System.out.println(owais.getName());
