@@ -3,17 +3,20 @@ is contain argument it earch argument const and use super for this. */
 package com.company;
 
 class Base1 {
-  public Base1() {
+  public Base1()
+  {
     System.out.println("I am a Constructor");
   }
 
-  public Base1(int a) {
+  public Base1(int a)
+  {
     System.out.println("I am an overload Constructor " + a);
   }
 }
 
 class Derive1 extends Base1 {
-  Derive1() {
+  Derive1()
+  {
     System.out.println("I am derived class constructor");
   }
 

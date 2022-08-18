@@ -3,8 +3,9 @@ import java.util.Scanner;
 
 class userinputpprac{
     private int id;
-    public void setId(int n){
+    public void setId(int n) {
         id = n;
+
 }
     public int getId(){
         return id;
